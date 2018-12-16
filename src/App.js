@@ -9,7 +9,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Hi there! Now i am running through docker compose
+            Hi there! Now i am going to feature branch through docker compose
           </p>
           <a
             className="App-link"
